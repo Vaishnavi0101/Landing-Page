@@ -66,7 +66,7 @@ img:hover{
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: url('map.jpg') no-repeat center;
+	background: url('map.jpg');
 	background-size: cover;
 	filter: blur(50px);
 	z-index: -1;
@@ -83,7 +83,7 @@ img:hover{
 }
 
 .left{
-	background: url('map.jpg') no-repeat center;
+	background: url('map.jpg');
 	background-size: cover;
 	height: 100%;
 }
